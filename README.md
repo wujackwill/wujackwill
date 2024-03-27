@@ -1,5 +1,4 @@
 - Hi, I’m Jack Will
-- I’m interested in computer. 
 - I’m currently learning R, Rust, Python and lua.
 - Fun fact:
     * I love open source and free software though i use Windows
